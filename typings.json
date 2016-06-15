@@ -1,0 +1,8 @@
+{
+  "name": "scarecrow",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/hapijs/scarecrow",
+  "ambientDependencies": {
+    "hapi": "registry:dt/hapi#13.0.0+20160316155526"
+  }
+}
